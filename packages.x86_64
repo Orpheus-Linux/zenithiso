@@ -125,8 +125,6 @@ mesa
 gnome-control-center
 gnome-settings-daemon
 librewolf
-gnome-disks
-gnome-software-git
 nautilus
 networkmanager
 gedit
