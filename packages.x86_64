@@ -8,9 +8,8 @@ bind-tools
 brltty
 broadcom-wl
 btrfs-progs
-clonezillaf
+clonezilla
 cloud-init
-crda
 darkhttpd
 ddrescue
 dhclient
@@ -124,9 +123,7 @@ gnome-console
 mesa
 gnome-control-center
 gnome-settings-daemon
-librewolf
-gnome-disks
-gnome-software-git
+firefox
 nautilus
 networkmanager
 gedit
